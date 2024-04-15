@@ -54,7 +54,6 @@ while True:
     except IndexError:
         print("Out of range.")
         continue
-
     except ValueError:
         print('Incorrect value...')
         continue
